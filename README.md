@@ -48,7 +48,7 @@
 
 <p align="center">
   <a href="mailto:dineshpathro593@email.com"><img src="https://img.shields.io/badge/Email-FF3333?logo=gmail&logoColor=white&style=for-the-badge"></a>
-  <a href="https://x.com/mr_dineshpathro"><img src="https://img.shields.io/badge/Follow_on_X-000000?logo=x&logoColor=white&style=for-the-badge"></a>
+  <a href="https://x.com/TheExploitLab"><img src="https://img.shields.io/badge/Follow_on_X-000000?logo=x&logoColor=white&style=for-the-badge"></a>
 </p>
 
 ---
