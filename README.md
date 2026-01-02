@@ -53,14 +53,6 @@
 
 ---
 
-## 📜 Gists
-
-- 🧩 Handy one-liners for recon  
-- 🔎 Sample wordlists and filters  
-- 🧰 PoC snippets for labs  
-
----
-
 <!-- Animated footer quote -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&center=true&vCenter=true&color=FF9900&repeat=true&width=650&lines=Stay+curious.;Automate+the+boring+bits.;Exploit+responsibly.;Report+clearly.;Hack+the+planet+%F0%9F%8C%8D" alt="footer mantra">
