@@ -48,7 +48,6 @@
 
 <p align="center">
   <a href="mailto:dineshpathro593@email.com"><img src="https://img.shields.io/badge/Email-FF3333?logo=gmail&logoColor=white&style=for-the-badge"></a>
-  <a href="https://x.com/"><img src="https://img.shields.io/badge/Follow_on_X-000000?logo=x&logoColor=white&style=for-the-badge"></a>
 </p>
 
 ---
@@ -59,9 +58,3 @@
 </p>
 
 ---
-
-## 📊 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrdineshpathro&bg_color=0D1117&color=00FF99&line=00ccff&point=ff9900&hide_border=true" />
-</p>
